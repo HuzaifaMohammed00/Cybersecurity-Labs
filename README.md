@@ -22,7 +22,8 @@ Small, standalone scripts and mini-experiments used for practice — things like
 cybersecurity-labs/
 ├── ctf-writeups/
 │   └── <event-name>/
-├──  tryhackme-picoctf-notes/
+|  └──tryhackme-rooms
+|    └──picoctf-challenges 
 │   └── <room-or-challenge-name>/
 ├── scripts-experiments/
 │   └── <short-script-name>/
@@ -38,6 +39,9 @@ Each subfolder gets its own short `README.md` or notes file explaining what it c
 - Python
 - Flask (for testing against self-built vulnerable apps)
 - Docker
+- Wireshark
+- Tshark
+- Feroxbuster
 
 ## Related projects
 
