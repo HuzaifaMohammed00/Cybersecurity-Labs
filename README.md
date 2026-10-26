@@ -22,7 +22,7 @@ Small, standalone scripts and mini-experiments used for practice — things like
 cybersecurity-labs/
 ├── ctf-writeups/
 │   └── <event-name>/
-├── tryhackme-picoctf-notes/
+├──  tryhackme-picoctf-notes/
 │   └── <room-or-challenge-name>/
 ├── scripts-experiments/
 │   └── <short-script-name>/
